@@ -1,0 +1,30 @@
+The Bible Quest project will be multi-step, split into 7 parts:
+The Beginning and Creation
+The Promise
+God's People
+The Kingdom
+Exile and Hope
+The Savior
+The Church
+
+
+Level 1 Prototype: “The Garden of Beginnings”
+
+Objective: Help Adam and Eve care for the Garden and learn to trust God.
+Gameplay Mix:
+
+Explore Eden, collect fruit, name animals (mini-game)
+
+Puzzle: Sort fruit that’s allowed vs forbidden
+
+Trivia: “On which day did God create man?”
+
+Story Choice: Obey or disobey God (leads to lesson scene)
+
+Verse Unlock: Genesis 1:31 – “And God saw everything that He had made…”
+
+Rewards:
+
+Unlock “Faith Gem”
+
+Progress to “Noah’s Ark” level
