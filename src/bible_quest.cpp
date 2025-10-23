@@ -1,7 +1,6 @@
 #include "raylib.h"
 #include <string>
 #include <math.h>
-
 // Animation variables
 float timeElapsed = 0.0f;
 const float amplitude = 15.0f;
@@ -47,7 +46,9 @@ int main() {
             if (IsKeyPressed(KEY_ENTER)) state = GAME;
         }
         else if (state == GAME) {
-            DrawTexture(background, 0, 0, WHITE);
+            DrawText("Before we start, I'd \n like to test your Bible knowledge.", 400, 40, 20, BLACK);
+            DrawText("Take the test!", 400, 300, 20, BLACK);
+            
 
 
             if (IsKeyPressed(KEY_ESCAPE)) state = GAMEOVER;
